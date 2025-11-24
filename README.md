@@ -173,7 +173,7 @@ The script provides clear visual feedback:
 
 ## 🎯 Usage
 
-1. Copy the script content from `unc_environment_check.lua`
+1. Copy the script content from `UNC.lua` or copy this `loadstring(game:HttpGet("https://raw.githubusercontent.com/Bomzz1302/Unc-Environment-Roblox-Script/refs/heads/main/UNC.lua"))()`
 2. Execute it in your Roblox executor
 3. Wait for all tests to complete
 4. Review the summary report
